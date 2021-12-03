@@ -10,4 +10,4 @@
 
 ***both***
 
-~~mani and hari are toppers~~
+**~~mani and hari are not toppers~~**
